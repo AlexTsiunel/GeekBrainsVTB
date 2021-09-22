@@ -2,7 +2,7 @@ package main.java.com.geekbrains.lesson1.homework;
 
 import main.java.com.geekbrains.lesson1.homework.animals.*;
 
-public class startApp {
+public class StartApp {
     public static void main(String[] args) {
         Animal[] animals = {
                 new Dog("Sharik", 200, 20),
